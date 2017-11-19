@@ -1,0 +1,14 @@
+digraph semnet {
+rankdir = LR;
+"differential equations" -> {"ordinary differential equations"; "nonlinear differential equations"; "fuzzy differential equations"; "parabolic partial differential equations"; "partial differential equations"; "coupled differential equations"; "auxiliary differential equations"; "stochastic differential equations"; "functional differential equations"; "Maxwells differential equations"}
+"Maxwells differential equations" -> {"material parameters"; "path integral"; "physical laws"; "one-to-one correspondence"; "electromagnetic theory"; "boundary conditions"}
+"auxiliary differential equations" -> {"FDTD"; "relative complex permittivity"; "fractional derivatives"}
+"fuzzy differential equations" -> {"deficiency"; "differential inclusions"; "periodicity"; "attraction"}
+"nonlinear differential equations" -> {"numerical solution"; "bandwidths"; "feedback control laws"; "rotational degree"; "translational degrees"; "Maxwell equations"; "observability"; "dynamics"}
+"stochastic differential equations" -> {"SDEs"; "concatenation"; "reception"}
+"ordinary differential equations" -> {"explicit solution"; "efficient numerical solution"; "state space"; "sufficient conditions"; "equivalent circuit models"; "parabolic partial differential equations"; "ODEs"; "asymptotic stability"; "Hilbert space"; "computation"; "dynamics"; "Lyapunovs direct method"; "magnetic resonance angiograms"}
+"parabolic partial differential equations" -> {"Hilbert space"; "parabolic systems"; "PDEs"; "ordinary differential equations"}
+"functional differential equations" -> {"convergence"; "nonlinear time-delay systems"}
+"coupled differential equations" -> {"vibrational energy"; "dimensionless variables"}
+"partial differential equations" -> {"numerical solution"; "sufficient conditions"; "linear elasticity"; "finite element solutions"; "ordinary differential equations"; "probability density functions"; "magnetic field"; "distributed parameter systems"; "computer vision"; "formulation"; "parabolic type"; "boundary conditions"; "dynamics"; "PDEs"; "numerical methods"; "linear systems"}
+}

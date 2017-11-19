@@ -1,0 +1,19 @@
+
+digraph G{
+
+rankdir=LR;
+
+"biped locomotion" -> "pendulum"
+"biped locomotion" -> "kinematics"
+"biped locomotion" -> "feedback control"
+"biped locomotion" -> "postural stability"
+"biped locomotion" -> "closed-loop stability"
+"biped locomotion" -> "postural stability"
+"biped locomotion" -> "locomotion control"
+"biped locomotion" -> "robot"
+"biped locomotion" -> "locomotion gaits"
+"biped locomotion" -> "Lagrangian dynamics"
+"biped locomotion" -> "state-variable techniques"
+"biped locomotion" -> "stride length"
+"biped locomotion" -> "multivariable feedback"
+}

@@ -1,0 +1,13 @@
+{
+"differential equations": {"ordinary differential equations":33, "nonlinear differential equations":35, "fuzzy differential equations":31, "parabolic partial differential equations":43, "partial differential equations":33, "coupled differential equations":33, "auxiliary differential equations":35, "stochastic differential equations":36, "functional differential equations":36, "Maxwells differential equations":34},
+"Maxwells differential equations": {"material parameters":21, "path integral":16, "physical laws":16, "one-to-one correspondence":28, "electromagnetic theory":25, "boundary conditions":22},
+"auxiliary differential equations": {"FDTD":6, "relative complex permittivity":32, "fractional derivatives":25},
+"fuzzy differential equations": {"deficiency":12, "differential inclusions":26, "periodicity":14, "attraction":13},
+"nonlinear differential equations": {"numerical solution":20, "bandwidths":13, "feedback control laws":24, "rotational degree":20, "translational degrees":24, "Maxwell equations":20, "observability":16, "dynamics":11},
+"stochastic differential equations": {"SDEs":6, "concatenation":16, "reception":12},
+"ordinary differential equations": {"explicit solution":19, "efficient numerical solution":31, "state space":14, "sufficient conditions":24, "equivalent circuit models":28, "parabolic partial differential equations":43, "ODEs":7, "asymptotic stability":23, "Hilbert space":16, "computation":14, "dynamics":11, "Lyapunovs direct method":26, "magnetic resonance angiograms":32},
+"parabolic partial differential equations": {"Hilbert space":15, "parabolic systems":20, "PDEs":7, "ordinary differential equations":34},
+"functional differential equations": {"convergence":13, "nonlinear time-delay systems":31},
+"coupled differential equations": {"vibrational energy":20, "dimensionless variables":26},
+"partial differential equations": {"numerical solution":20, "sufficient conditions":24, "linear elasticity":20, "finite element solutions":27, "ordinary differential equations":34, "probability density functions":32, "magnetic field":17, "distributed parameter systems":32, "computer vision":18, "formulation":14, "parabolic type":17, "boundary conditions":22, "dynamics":11, "PDEs":7, "numerical methods":20, "linear systems":17}
+}
